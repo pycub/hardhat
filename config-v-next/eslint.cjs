@@ -318,7 +318,6 @@ function createConfig(configFilePath, packageEntryPoints = []) {
   // TODO: Maybe re-enable it once we have a more stable project structure
   // if (packageEntryPoints.length > 0) {
   //   const acceptableTopLevelImports = [];
-
   //   config.overrides?.push({
   //     files: packageEntryPoints,
   //     rules: {
