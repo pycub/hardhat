@@ -1,5 +1,19 @@
 # @nomiclabs/hardhat-ethers
 
+## 3.0.6
+
+### Patch Changes
+
+- 55924a7: Fix a race condition in our ethers provider.
+- 1d43aba: Use `eth_maxPriorityFeePerGas` for the max fee per gas calculation if available
+- Updated dependencies [22bcbf5]
+- Updated dependencies [2c533f0]
+- Updated dependencies [3203639]
+- Updated dependencies [5d7a604]
+- Updated dependencies [3c6de8f]
+- Updated dependencies [6447e80]
+  - hardhat@2.23.0
+
 ## 3.0.5
 
 ### Patch Changes

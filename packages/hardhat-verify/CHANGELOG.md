@@ -1,5 +1,20 @@
 # @nomicfoundation/hardhat-verify
 
+## 2.0.7
+
+### Patch Changes
+
+- f186e1a: Improved error handling and messaging for errors from the block explorer
+- e7b12df: Added Polygon Amoy testnet (thanks @FournyP!)
+- b9aada0: Added 'force' flag to allow verification of partially verified contracts (thanks @rimrakhimov!)
+- Updated dependencies [22bcbf5]
+- Updated dependencies [2c533f0]
+- Updated dependencies [3203639]
+- Updated dependencies [5d7a604]
+- Updated dependencies [3c6de8f]
+- Updated dependencies [6447e80]
+  - hardhat@2.23.0
+
 ## 2.0.6
 
 ### Patch Changes
